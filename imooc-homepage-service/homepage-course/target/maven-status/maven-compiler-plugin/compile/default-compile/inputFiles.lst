@@ -1,0 +1,6 @@
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-course/src/main/java/com/imooc/homepage/HomepageCourseApplication.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-course/src/main/java/com/imooc/homepage/controller/HomepageCourseController.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-course/src/main/java/com/imooc/homepage/service/impl/CourseServiceImpl.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-course/src/main/java/com/imooc/homepage/dao/HomepageCourseDao.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-course/src/main/java/com/imooc/homepage/entity/HomepageCourse.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-course/src/main/java/com/imooc/homepage/service/ICourseService.java

@@ -1,0 +1,6 @@
+com/imooc/homepage/service/ICourseService.class
+com/imooc/homepage/service/impl/CourseServiceImpl.class
+com/imooc/homepage/entity/HomepageCourse.class
+com/imooc/homepage/dao/HomepageCourseDao.class
+com/imooc/homepage/HomepageCourseApplication.class
+com/imooc/homepage/controller/HomepageCourseController.class

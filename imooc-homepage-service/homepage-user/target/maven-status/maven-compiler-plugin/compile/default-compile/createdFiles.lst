@@ -1,0 +1,12 @@
+com/imooc/homepage/entity/HomepageUserCourse.class
+com/imooc/homepage/client/CourseClient.class
+com/imooc/homepage/vo/CreateUserRequest.class
+com/imooc/homepage/service/impl/UserServiceImpl.class
+com/imooc/homepage/service/IUserService.class
+com/imooc/homepage/controller/HomepageUserController.class
+com/imooc/homepage/client/CourseClientHystrix.class
+com/imooc/homepage/vo/UserCourseInfo.class
+com/imooc/homepage/dao/HomepageUserDao.class
+com/imooc/homepage/dao/HomepageUserCourseDao.class
+com/imooc/homepage/HomepageUserApplication.class
+com/imooc/homepage/entity/HomepageUser.class

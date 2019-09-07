@@ -1,0 +1,12 @@
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/vo/CreateUserRequest.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/entity/HomepageUser.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/dao/HomepageUserCourseDao.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/vo/UserCourseInfo.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/entity/HomepageUserCourse.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/HomepageUserApplication.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/dao/HomepageUserDao.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/service/IUserService.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/client/CourseClient.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/controller/HomepageUserController.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/service/impl/UserServiceImpl.java
+/Users/jrwang8/IdeaProjects/imooc-homepage-spring-cloud/imooc-homepage-service/homepage-user/src/main/java/com/imooc/homepage/client/CourseClientHystrix.java
